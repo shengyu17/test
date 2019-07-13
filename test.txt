@@ -7,3 +7,6 @@ changing everything
 
 
 >>>>>>> refs/remotes/origin/master
+
+
+changed
