@@ -9,4 +9,4 @@ changing everything
 >>>>>>> refs/remotes/origin/master
 
 
-changed
+changed2
