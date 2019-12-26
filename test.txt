@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+assss
+changing planet
+=======
+assss 
+changing everything
+
+
+>>>>>>> refs/remotes/origin/master
+
+
+changed2
